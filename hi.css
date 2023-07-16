@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 5px;
+}
+body{
+    background-color: rgb(138, 192, 174);
+}
+.nav a{
+    color: rgb(255, 11, 11);
+    text-transform: uppercase;
+    text-align: 20px;
+}
+.btn {
+    color: rgb(255, 22, 22);
+}
